@@ -1,6 +1,6 @@
 # Corobot Sorting Tokens
 
-This project was developed during an internship and is covered by an agreement with **ZAISS**.  
+This LABVIEW project was developed during an internship and is covered by an agreement with **ZEISS**.  
 For this reason, I cannot publish the source code.
 
 Below is a video showcasing the working program:
